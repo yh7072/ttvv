@@ -24,7 +24,7 @@
 
 
 # 直播
-"lives":[{"group":"redirect","channels":[{"name":"a","urls":["proxy://do=live&type=txt&ext=./TXT/a.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"a","urls":["proxy://do=live&type=txt&ext=./TV/live.txt"]}]}],
 
 //"lives":[{"group":"redirect","channels":[{"name":"b","urls":["proxy://do=live&type=txt&ext=./TXT/b.txt"]}]}],
 
